@@ -21,7 +21,9 @@ You can use pull requests to help me to improve this script if you want. Don't b
 
 ## Credits Time
 NSA Server (fr server)
+
 <a href="https://discord.gg/btQzwvt"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
 
 Horizon Project (fr server again ^^')
+
 <a href="https://discord.gg/#"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
