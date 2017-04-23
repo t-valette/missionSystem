@@ -14,7 +14,8 @@ You can find our changelog [here](CHANGELOG.md)
 2. Extract the folder and rename it to missionSystem
 3. Copy it to your resources folder
 4. Configure your SQL credentials in server.lua
-5. Restart your server 
+5. Add missionSystem to AutoStartResources in citymp-server.yml
+6. Restart your server 
 
 ## Contribute
 You can use pull requests to help me to improve this script if you want. Don't be selfish and share your work ;)
