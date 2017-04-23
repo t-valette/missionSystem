@@ -1,13 +1,4 @@
 # missionSystem
-Join us on NSA Server (fr server)
-
-<a href="https://discord.gg/btQzwvt"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
-
-
-Join us on Horizon Project (fr server again ^^')
-
-<a href="https://discord.gg/#"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
-
 missionSystem is a plugin to add in your FiveM server in order to add some missions like harvest weeds and sell it to have moneys.
 
 ## Changelog
@@ -27,3 +18,10 @@ You can find our changelog [here](CHANGELOG.md)
 
 ## Contribute
 You can use pull requests to help me to improve this script if you want. Don't be selfish and share your work ;)
+
+## Credits Time
+NSA Server (fr server)
+<a href="https://discord.gg/btQzwvt"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
+
+Horizon Project (fr server again ^^')
+<a href="https://discord.gg/#"><img alt="Discord Status" src="https://discordapp.com/api/guilds/303627262199070720/widget.png"></a>
