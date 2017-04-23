@@ -69,15 +69,15 @@ listOn = false
 	while true do
 		Wait(0)
 		
-		-- RECOLTE DE CANABIS - START
+		-- HARVEST WEED - START
 		if GetDistanceBetweenCoords(GetEntityCoords(GetPlayerPed(-1)), 2208.777,5578.235,53.735, true) <= 10 then						
 			TriggerServerEvent('missionSystem:getWeed')
 			Citizen.Wait(5000)
 		end		
-		-- RECOLTE DE CANABIS - END
+		-- HARVEST WEED - END
 		
 		
-		-- RECOLTE DE SHIT - START
+		-- HARVEST SHIT - START
 		if GetDistanceBetweenCoords(GetEntityCoords(GetPlayerPed(-1)), -1103.57861328125,4889.03271484375,216.067886352539, true) <= 5 then						
 			TriggerServerEvent('missionSystem:getShit')
 			Citizen.Wait(5000)
@@ -88,7 +88,7 @@ listOn = false
 			Citizen.Wait(2500)
 		end
 		
-		-- RECOLTE DE SHIT - END
+		-- HARVEST SHIT - END
 		
 	end
 end)
