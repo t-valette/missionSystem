@@ -1,3 +1,5 @@
+An other script more user-friendly is available [here](https://forum.fivem.net/t/release-recolt-treatment-selling-jobs-system-v1-0/15465) but I let this one available if you want
+
 # missionSystem
 missionSystem is a plugin to add in your FiveM server in order to add some missions like harvest weeds and sell it to have moneys.
 
@@ -16,9 +18,6 @@ You can find our changelog [here](CHANGELOG.md)
 4. Configure your SQL credentials in server.lua
 5. Add missionSystem to AutoStartResources in citymp-server.yml
 6. Restart your server 
-
-## Contribute
-You can use pull requests to help me to improve this script if you want. Don't be selfish and share your work ;)
 
 ## Credits Time
 NSA Server (fr server)
